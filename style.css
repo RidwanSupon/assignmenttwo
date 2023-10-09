@@ -185,12 +185,12 @@ banner
     padding: 0px 240px 130px 240px;
     
 }
-.facts-container h1{
+.facts-info h3{
     font-size: 45px;
     font-weight: 700;
     color: #131313;
 }
-.facts-container p{
+.facts-info p{
     font-size: 16px;
     font-weight: 400;
     color: #727272;
@@ -318,6 +318,12 @@ banner
     flex-wrap: wrap;
     gap: 15px;
 }
+.achivement:hover{
+    transform: scale(0.9);
+    background: #FF900E;
+    transition: 0.4s;
+}
+
 }
 
 
