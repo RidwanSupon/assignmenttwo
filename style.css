@@ -186,6 +186,9 @@ banner
         /* width: 100%; */
         font-size: 30px;
     }
+    .banner-des{
+        top: -20px;
+    }
     .banner-img img{
         width: 100%;
         border-radius: 8px;
